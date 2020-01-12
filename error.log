@@ -1,0 +1,358 @@
+
+[2020-01-12 18:58:18] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 166, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 174, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 91, in __init__
+    self.embed_browser()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 118, in embed_browser
+    self.browser.SetClientHandler()
+TypeError: SetClientHandler() takes exactly one argument (0 given)
+
+
+[2020-01-12 19:26:21] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 174, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 182, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 86, in __init__
+    title=title, size=size)
+TypeError: Frame(): arguments did not match any overloaded call:
+  overload 1: 'parent' is not a valid keyword argument
+  overload 2: argument 'size' has unexpected type 'tuple'
+
+
+[2020-01-12 19:28:19] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 178, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 186, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 90, in __init__
+    title=title, size=size)
+TypeError: Frame(): arguments did not match any overloaded call:
+  overload 1: 'parent' is not a valid keyword argument
+  overload 2: argument 'size' has unexpected type 'tuple'
+
+
+[2020-01-12 19:36:23] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 174, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 182, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 86, in __init__
+    title=title, size=size)
+TypeError: Frame(): arguments did not match any overloaded call:
+  overload 1: 'parent' is not a valid keyword argument
+  overload 2: argument 'size' has unexpected type 'tuple'
+
+
+[2020-01-12 19:36:37] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 178, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 186, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 90, in __init__
+    title=title, size=size)
+TypeError: Frame(): arguments did not match any overloaded call:
+  overload 1: 'parent' is not a valid keyword argument
+  overload 2: argument 'size' has unexpected type 'tuple'
+
+
+[2020-01-12 19:37:05] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 178, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 186, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 90, in __init__
+    title=title, size=size)
+TypeError: Frame(): arguments did not match any overloaded call:
+  overload 1: 'parent' is not a valid keyword argument
+  overload 2: argument 'size' has unexpected type 'tuple'
+
+
+[2020-01-12 19:37:19] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 178, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 186, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 90, in __init__
+    title=title, size=size)
+TypeError: Frame(): arguments did not match any overloaded call:
+  overload 1: 'parent' is not a valid keyword argument
+  overload 2: argument 'size' has unexpected type 'tuple'
+
+
+[2020-01-12 19:37:54] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 178, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 186, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 90, in __init__
+    title=title, size=size)
+TypeError: Frame(): arguments did not match any overloaded call:
+  overload 1: 'parent' is not a valid keyword argument
+  overload 2: argument 'size' has unexpected type 'tuple'
+
+
+[2020-01-12 19:38:59] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 180, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 188, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 92, in __init__
+    title=title, size=size)
+TypeError: Frame(): arguments did not match any overloaded call:
+  overload 1: 'parent' is not a valid keyword argument
+  overload 2: argument 'size' has unexpected type 'tuple'
+
+
+[2020-01-12 19:39:31] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 180, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 188, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 88, in __init__
+    size = scale_window_size_for_high_dpi(WIDTH, HEIGHT)
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 59, in scale_window_size_for_high_dpi
+    width = max_width * int(scaleWidth)
+ValueError: invalid literal for int() with base 10: '0.8'
+
+
+[2020-01-12 19:43:00] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 175, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 183, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 83, in __init__
+    size = scale_window_size_for_high_dpi()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 54, in scale_window_size_for_high_dpi
+    (width, height) = cef.DpiAware.Scale((width, height))
+UnboundLocalError: local variable 'width' referenced before assignment
+
+
+[2020-01-12 19:44:52] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 169, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 177, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 76, in __init__
+    % str((WIDTH, HEIGHT)))
+NameError: name 'WIDTH' is not defined
+
+
+[2020-01-12 20:46:54] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 168, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 176, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 112, in create_menu
+    self.Bind(wx.EVT_MENU, self.OnQuit, fitem)
+AttributeError: 'MainFrame' object has no attribute 'OnQuit'
+
+
+[2020-01-12 20:48:48] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 172, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 180, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 111, in create_menu
+    bar1 = menubar.Append(wx.ID_EXIT,"Quit")
+TypeError: MenuBar.Append(): argument 1 has unexpected type 'StandardID'
+
+
+[2020-01-12 20:51:58] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 190, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 198, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 114, in create_menu
+    tb.AddTool(101, wx.Bitmap("new.png"))
+TypeError: ToolBar.AddTool(): arguments did not match any overloaded call:
+  overload 1: argument 1 has unexpected type 'int'
+  overload 2: argument 2 has unexpected type 'Bitmap'
+  overload 3: argument 2 has unexpected type 'Bitmap'
+
+
+[2020-01-12 20:52:19] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 196, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 204, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 114, in create_menu
+    tb.AddTool(101, wx.Bitmap("new.png"))
+TypeError: ToolBar.AddTool(): arguments did not match any overloaded call:
+  overload 1: argument 1 has unexpected type 'int'
+  overload 2: argument 2 has unexpected type 'Bitmap'
+  overload 3: argument 2 has unexpected type 'Bitmap'
+
+
+[2020-01-12 20:55:29] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 196, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 204, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 114, in create_menu
+    tb.AddTool(101, wx.Bitmap("new.ico"))
+TypeError: ToolBar.AddTool(): arguments did not match any overloaded call:
+  overload 1: argument 1 has unexpected type 'int'
+  overload 2: argument 2 has unexpected type 'Bitmap'
+  overload 3: argument 2 has unexpected type 'Bitmap'
+
+
+[2020-01-12 20:57:53] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 196, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 204, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 114, in create_menu
+    tb.AddTool(101, wx.Bitmap("new.bmp"))
+TypeError: ToolBar.AddTool(): arguments did not match any overloaded call:
+  overload 1: argument 1 has unexpected type 'int'
+  overload 2: argument 2 has unexpected type 'Bitmap'
+  overload 3: argument 2 has unexpected type 'Bitmap'
+
+
+[2020-01-12 20:59:15] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 196, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 204, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 114, in create_menu
+    tb.AddTool(101, wx.Bitmap(wx.ART_FILE_OPEN))
+TypeError: ToolBar.AddTool(): arguments did not match any overloaded call:
+  overload 1: argument 1 has unexpected type 'int'
+  overload 2: argument 2 has unexpected type 'Bitmap'
+  overload 3: argument 2 has unexpected type 'Bitmap'
+
+
+[2020-01-12 20:59:33] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 196, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 204, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 114, in create_menu
+    tb.AddTool(101, wx.ArtProvider.GetBitmap(wx.ART_FILE_OPEN))
+TypeError: ToolBar.AddTool(): arguments did not match any overloaded call:
+  overload 1: argument 1 has unexpected type 'int'
+  overload 2: argument 2 has unexpected type 'Bitmap'
+  overload 3: argument 2 has unexpected type 'Bitmap'
+
+
+[2020-01-12 21:11:15] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 179, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 187, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 114, in create_menu
+    toolBar.Realize()
+wx._core.wxAssertionError: C++ assertion "Assert failure" failed at ..\..\src\msw\toolbar.cpp(823) in wxToolBar::Realize(): invalid tool button bitmap
+
+
+[2020-01-12 21:26:17] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 179, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 187, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 113, in create_menu
+    toolBar.AddTool(wx.NewId(), wx.Bitmap('home.png'), "New", "long help for 'New'")
+TypeError: ToolBar.AddTool(): arguments did not match any overloaded call:
+  overload 1: argument 1 has unexpected type 'int'
+  overload 2: argument 2 has unexpected type 'Bitmap'
+  overload 3: argument 2 has unexpected type 'Bitmap'
+
+
+[2020-01-12 21:29:22] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 204, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 212, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 138, in create_menu
+    wx.EVT_TOOL(self,1,self.OnOpen)
+AttributeError: 'MainFrame' object has no attribute 'OnOpen'
+
+
+[2020-01-12 21:33:45] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 190, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 198, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 120, in create_menu
+    toolBar.AddTool(1,wx.Image('home.png',wx.BITMAP_TYPE_PNG).ConvertToBitmap(),'Open','')
+TypeError: ToolBar.AddTool(): arguments did not match any overloaded call:
+  overload 1: argument 1 has unexpected type 'int'
+  overload 2: argument 2 has unexpected type 'Bitmap'
+  overload 3: argument 2 has unexpected type 'Bitmap'
+
+
+[2020-01-12 21:34:56] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 193, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 201, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 121, in create_menu
+    toolBar.AddTool(1,wx.Image('home.png',wx.BITMAP_TYPE_PNG).ConvertToBitmap(),wx.Image('home.png',wx.BITMAP_TYPE_PNG).ConvertToBitmap())
+TypeError: ToolBar.AddTool(): arguments did not match any overloaded call:
+  overload 1: argument 1 has unexpected type 'int'
+  overload 2: argument 2 has unexpected type 'Bitmap'
+  overload 3: argument 2 has unexpected type 'Bitmap'
+
+
+[2020-01-12 21:35:36] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 192, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 200, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 121, in create_menu
+    toolBar.AddTool(1,wx.Image('home.png',wx.BITMAP_TYPE_PNG).ConvertToBitmap())
+TypeError: ToolBar.AddTool(): arguments did not match any overloaded call:
+  overload 1: argument 1 has unexpected type 'int'
+  overload 2: argument 2 has unexpected type 'Bitmap'
+  overload 3: argument 2 has unexpected type 'Bitmap'
+
+
+[2020-01-12 21:36:27] Traceback (most recent call last):
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 193, in OnInit
+    self.initialize()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 201, in initialize
+    frame = MainFrame()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 85, in __init__
+    self.create_menu()
+  File "D:/Pycharm/NCPAIWX/NCPAIBrowser.py", line 122, in create_menu
+    toolBar.AddTool(1, wx.Bitmap("home.png"))
+TypeError: ToolBar.AddTool(): arguments did not match any overloaded call:
+  overload 1: argument 1 has unexpected type 'int'
+  overload 2: argument 2 has unexpected type 'Bitmap'
+  overload 3: argument 2 has unexpected type 'Bitmap'
+
+
+[2020-01-12 22:34:08] TypeError: onGoUrl() takes 1 positional argument but 2 were given
+
